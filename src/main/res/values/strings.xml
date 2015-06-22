@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Riesgo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="prima_riesgo">Prima de Riesgo</string>
+    <string name="pais_espana">España</string>
+    <string name="action_settings">Settings</string>
+</resources>
